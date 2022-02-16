@@ -23,9 +23,9 @@ body {
 .logo {
     color: #fff;
     cursor: pointer;
-    margin-left: 25px;
-    width: 75px;
-    height: 75px;
+    margin-left: 50px;
+    width: 100px;
+    height: 100px;
     /* background-image: url('https://media.nationalgeographic.org/assets/photos/000/276/27633.jpg'); */
     /* background-image: url('https://www.vhv.rs/dpng/d/615-6159525_cool-symbols-png-ninja-logo-transparent-png.png'); */
 }
@@ -70,7 +70,8 @@ body {
 
 
 .personal{
-    font-size: small;
+    font-size: 24pt;
+    font-family:'Gill Sans';
 }
 .header {
     /* background-image: url('https://media.nationalgeographic.org/assets/photos/000/276/27633.jpg'); */
@@ -113,6 +114,13 @@ body {
 	top: 45%;
 	transform: translate(-50%, -55%);
 	text-align: center;
+}
+
+.about {
+    padding: 1pt;
+    color:#e4e4e4;
+	text-align: center;
+    font-size:Large;
 }
 
 .listabout{
