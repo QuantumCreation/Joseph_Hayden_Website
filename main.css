@@ -118,6 +118,7 @@ body {
 
 .about {
     padding: 1pt;
+    transform: translate(0%, 0%);
     color:#e4e4e4;
 	text-align: center;
     font-size:Large;
