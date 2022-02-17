@@ -1,0 +1,68 @@
+[33mcommit 293dbaeab3c8e171ffe84f037db2793899b358cd[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: QuantumCreation <joseph6433@gmail.com>
+Date:   Wed Feb 16 20:33:43 2022 -0500
+
+    fix(about): navbar now accessable
+
+[33mcommit 0ccfea846c4bab6b8048476c87c55f50ee9d9284[m
+Author: QuantumCreation <joseph6433@gmail.com>
+Date:   Wed Feb 16 13:05:05 2022 -0500
+
+    about page
+
+[33mcommit 061a2fa6ff7300ee2f2b0d2ca621c1bcc5adaad8[m
+Author: QuantumCreation <joseph6433@gmail.com>
+Date:   Tue Feb 15 14:30:03 2022 -0500
+
+    testing
+
+[33mcommit b64ee6ec0971123c5dd74ffe477d67b867e28c6d[m
+Merge: 642d106 5338fa3
+Author: QuantumCreation <70736554+QuantumCreation@users.noreply.github.com>
+Date:   Sat Jan 22 23:58:10 2022 -0500
+
+    Merge pull request #1 from QuantumCreation/test1
+    
+    feat(main): title of the lord Joey
+
+[33mcommit 5338fa331c0c66ff5118d07a63cfa76d7373db2c[m
+Author: QuantumCreation <joseph6433@gmail.com>
+Date:   Sat Jan 22 23:49:54 2022 -0500
+
+    feat(main): title of the lord Joey
+
+[33mcommit 642d1065530362e43821132bb95e6c13250f6f7b[m
+Author: QuantumCreation <joseph6433@gmail.com>
+Date:   Sat Jan 22 23:38:01 2022 -0500
+
+    feat(main): Add resume descriptions
+
+[33mcommit 4f813cf579782629ceb9639924e26414649bb31e[m
+Author: QuantumCreation <joseph6433@gmail.com>
+Date:   Wed Jan 19 21:28:27 2022 -0500
+
+    Interests added
+
+[33mcommit 2e2a23730d70f33cea57a879c070c6063a82903f[m
+Author: QuantumCreation <joseph6433@gmail.com>
+Date:   Wed Jan 19 19:58:06 2022 -0500
+
+    Resume update
+
+[33mcommit 61b85df7148015c21531ed7ce10ef416c7984a5b[m
+Author: QuantumCreation <joseph6433@gmail.com>
+Date:   Tue Jan 18 16:18:47 2022 -0500
+
+    Do it
+
+[33mcommit 6b7b7812f6c8d0179ba47d259d6a80fb2ff9b9cd[m
+Author: QuantumCreation <joseph6433@gmail.com>
+Date:   Tue Jan 18 16:04:00 2022 -0500
+
+    commit first test
+
+[33mcommit a9a1ec74da8f56d307bacfba722def86f4f60b19[m
+Author: QuantumCreation <joseph6433@gmail.com>
+Date:   Sat Jan 8 12:45:45 2022 -0500
+
+    Initial commit
