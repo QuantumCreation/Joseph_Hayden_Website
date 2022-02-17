@@ -78,16 +78,18 @@ body {
     width: 100%;
     height: 100%;
     background-image: url('Earth.png');
+    /* filter: brightness(0.1); */
     background-size: cover;
     background-position: center;
     
     position: relative;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    
 }
 
 .overlay {
-    position: absolute;
+    position:absolute;
     min-height: 100%;
     min-width: 100%;
     left: 0;
@@ -117,7 +119,19 @@ body {
 }
 
 .about {
-    padding: 1pt;
+    padding: 5pt;
+    padding-left: 7pt;
+    padding-right: 7pt;
+    transform: translate(0%, 0%);
+    color:#e4e4e4;
+	text-align: center;
+    font-size:Large;
+}
+
+.aboutme {
+    padding-top: 50pt;
+    padding-left: 7pt;
+    padding-right: 7pt;
     transform: translate(0%, 0%);
     color:#e4e4e4;
 	text-align: center;
@@ -210,12 +224,23 @@ body {
     color: orange;
   }
 
+/* .contactcontainter {
+    background-color: #000;
+    opacity: 0.7;
+} */
+
+
 .interests{
     background-color: #000000;
     width: 100%;
     height: 100%;
     /* justify-content: center; */
     text-align: center;
+}
+
+.interests .sub{
+    color:hsl(98, 36%, 96%);
+    font-size: Large;
 }
 
 .interests .btn{
